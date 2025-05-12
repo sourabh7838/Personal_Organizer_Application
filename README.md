@@ -172,7 +172,13 @@ The application follows a feature-first architecture pattern:
 ## Screenshots and Features
 
 ### 1. Home Screen
-[Insert Screenshot Here]
+
+<img width="156" alt="image" src="https://github.com/user-attachments/assets/02e02e41-29da-41e9-926d-7e0ee2340f76" />
+
+<img width="156" alt="image" src="https://github.com/user-attachments/assets/1ce4afbf-7b78-4a7b-9f24-544cf1bc65e4" />
+
+<img width="158" alt="image" src="https://github.com/user-attachments/assets/8af158fc-d007-45f1-b16e-be47dd0224b3" />
+
 - Displays all tasks organized by lists
 - Quick access to starred tasks
 - Bottom navigation for different views
