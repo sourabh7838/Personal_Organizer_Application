@@ -185,35 +185,54 @@ The application follows a feature-first architecture pattern:
 - Floating action button for adding new tasks
 
 ### 2. Task Creation/Editing
-[Insert Screenshot Here]
+
+<img width="164" alt="image" src="https://github.com/user-attachments/assets/ff7e0311-008e-4155-b0a5-32a867d911be" />
+
+<img width="160" alt="image" src="https://github.com/user-attachments/assets/2bc1734b-a11f-4f5e-98bb-1e72996e4eea" />
+
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/f6e330d1-4245-475e-a985-8c998674880e" />
+
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/83771dd8-dc4e-407d-b3d1-cafd60bc935b" />
+
 - Form for creating/editing tasks
 - Priority selection with color coding
 - Due date and time picker
 - Description field for detailed notes
 
 ### 3. Task List View
-[Insert Screenshot Here]
+
+<img width="167" alt="image" src="https://github.com/user-attachments/assets/edaa0136-2225-4127-966e-14715f5d97a0" />
+
+<img width="165" alt="image" src="https://github.com/user-attachments/assets/10d5b854-44f0-4d4b-9a91-bada4b8a8fe8" />
+
+<img width="164" alt="image" src="https://github.com/user-attachments/assets/022a3885-35e8-430e-a56f-aa45ad4299c1" />
+
 - Tasks grouped by completion status
 - Visual indicators for priority levels
 - Due date/time display with clock icon
 - Swipe actions for quick task management
-
-### 4. Categories and Organization
-[Insert Screenshot Here]
-- Hierarchical view of task categories
-- Drag-and-drop organization
-- Category creation and management
 - Task filtering by category
+- Category creation and management
+- Hierarchical view of task categories
 
-### 5. Notification System
-[Insert Screenshot Here]
+### 4. Notification System and Restore Delete tasks
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/052fde7d-88f8-48dc-aadb-0e3bf252c0b7" />
+
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/3d30c9d0-7688-4552-91fc-404bccc43019" />
+
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/c60b34d8-463c-4381-b627-f35c7485beae" />
+
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/80bda064-57d4-4fb5-890a-44dcc9b6ae7e" />
+
 - Notification preferences setup
 - Scheduled notification examples
 - Early reminder configuration
 - Custom notification actions
+- Trash screen with restore button
+-	Permanently remove all deleted tasks.
 
 ## GitHub Repository
-[Insert Repository Link Here]
+https://github.com/sourabh7838/Personal_Organizer_Application
 
 ## Additional Notes
 - The application follows Material Design guidelines
